@@ -13,3 +13,4 @@
 - İçgörü (en karlı / en düşük marj) eklendi
 - Grafikler eklendi (matplotlib)
 - PDF rapor üretimi eklendi (Türkçe font düzeltildi)
+Log initialized.
